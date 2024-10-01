@@ -32,17 +32,17 @@ global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
 global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
 global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
 
-global.img = 'https://qu.ax/vZii.jpg'
-global.img2 = 'https://qu.ax/hjcB.jpg'
+global.img = 'https://qu.ax/OsWR.jpg'
+global.img2 = 'https://qu.ax/qTjd.jpg'
 
-global.img3 = 'https://qu.ax/zELg.jpg' //prem
-global.img4 = 'https://qu.ax/YueS.jpg' //prem
+global.img3 = 'https://qu.ax/rlqL.jpg' //prem
+global.img4 = 'https://qu.ax/VvwN.jpg' //prem
 
-global.img5 = 'https://qu.ax/xLcn.jpg'
-global.img6 = 'https://qu.ax/EGOe.jpg'
-global.img7 = 'https://qu.ax/wly.jpg'
-global.img8 = 'https://qu.ax/TPVV.jpg'
-global.img9 = 'https://qu.ax/qKlN.jpg'
+global.img5 = 'https://qu.ax/PiJF.jpg'
+global.img6 = 'https://qu.ax/cHcy.jpg'
+global.img7 = 'https://qu.ax/hhtk.jpg'
+global.img8 = 'https://qu.ax/YPdq.jpg'
+global.img9 = 'https://qu.ax/Fznh.jpg'
 
 global.img10 = 'https://qu.ax/SYFo.jpg'
 global.img11 = 'https://qu.ax/efhn.jpg'
