@@ -44,17 +44,17 @@ global.img7 = 'https://qu.ax/hhtk.jpg'
 global.img8 = 'https://qu.ax/YPdq.jpg'
 global.img9 = 'https://qu.ax/Fznh.jpg'
 
-global.img10 = 'https://qu.ax/SYFo.jpg'
-global.img11 = 'https://qu.ax/efhn.jpg'
-global.img12 = 'https://qu.ax/Vmpl.jpg'
+global.img10 = 'https://qu.ax/snqM.jpg'
+global.img11 = 'https://qu.ax/LowJ.jpg'
+global.img12 = 'https://qu.ax/oLRM.jpg'
 global.img13 = 'https://qu.ax/ElSy.jpg'
-global.img14 = 'https://qu.ax/Tgbe.jpg'
-global.img15 = 'https://qu.ax/Puwj.jpg' 
+global.img14 = 'https://qu.ax/hiS.jpg'
+global.img15 = 'https://qu.ax/GrVb.jpg' 
 
-global.img16 = 'https://qu.ax/ovkN.jpg' //+18
+global.img16 = 'https://qu.ax/FQZm.jpg' //+18
 
-global.img17 = 'https://qu.ax/HJdr.jpg'
-global.img18 = 'https://qu.ax/HCt.jpg'
+global.img17 = 'https://qu.ax/OsWR.jpg'
+global.img18 = 'https://qu.ax/GGmA.jpg'
 
 global.logogit = 'https://qu.ax/RzKF.jpg'
 
