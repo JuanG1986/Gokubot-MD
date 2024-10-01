@@ -128,8 +128,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `𝗚𝗼𝗸𝘂𝗯𝗼𝘁` //"𝗚𝗼𝗸𝘂𝗯𝗼𝘁-𝙈𝘿 🐈"
-global.author = `𝗚𝗼𝗸𝘂𝗯𝗼𝘁` //"𝗚𝗼𝗸𝘂𝗯𝗼𝘁 𝘿𝙞𝙤𝙨"
+global.packname = `𝗚𝗼𝗸𝘂𝗯𝗼𝘁` //"𝗚𝗼𝗸𝘂𝗯𝗼𝘁-𝙈𝘿"
+global.author = `𝗚𝗼𝗸𝘂𝗯𝗼𝘁` //"𝗕𝘆 𝗝𝘂𝗮𝗻𝟭𝟵𝟴𝟲"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -165,7 +165,7 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗚𝗼𝗸𝘂𝗯𝗼𝘁-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.wm = "𝗚𝗼𝗸𝘂𝗯𝗼𝘁-𝙈𝘿 - 𝗕𝘆 𝗝𝘂𝗮𝗻𝟭𝟵𝟴𝟲"
 global.igfg = "𝗚𝗼𝗸𝘂𝗯𝗼𝘁-𝙈𝘿"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
