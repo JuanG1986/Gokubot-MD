@@ -55,7 +55,6 @@ global.img16 = 'https://qu.ax/FQZm.jpg' //+18
 
 global.img17 = 'https://qu.ax/OsWR.jpg'
 global.img18 = 'https://qu.ax/GGmA.jpg'
-global.channel1 = 'https://chat.whatsapp.com/LmDvJZWd0eQCzhR8lwJ5B4'
 
 global.logogit = 'https://qu.ax/Wwog.jpg'
 
