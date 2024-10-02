@@ -219,7 +219,7 @@ ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *GATABOT TEMPORAL* 🪅\n
+> 🪅 *GOKUBOT TEMPORAL* 🪅\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
@@ -501,7 +501,7 @@ ${margen}
 ✓ _${usedPrefix}myns_
 ✓ _${usedPrefix}unreg *numero de serie*_
 ✓ _${usedPrefix}minardiamantes | minargemas_
-✓ _${usedPrefix}minargatacoins | minarcoins_
+✓ _${usedPrefix}minargokucoins | minarcoins_
 ✓ _${usedPrefix}minarexperiencia | minarexp_
 ✓ _${usedPrefix}minar *:* minar2 *:* minar3_
 ✓ _${usedPrefix}rob | robar 
@@ -529,7 +529,7 @@ ${margen}
 
 ✓ _${usedPrefix}fytendencia | fyranking_
 
-> 🏆 *TOP en GATABOT* 🏆
+> 🏆 *TOP en GOKUBOT* 🏆
 
 ✓ _${usedPrefix}top | lb | leaderboard_
 
