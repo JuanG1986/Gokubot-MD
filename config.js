@@ -435,6 +435,7 @@ const response = await fetch('https://raw.githubusercontent.com/GataNina-Li/Gata
 const data = await response.json() 
 let { accounts, channels, groups, collaboration, sponsors, others } = data.info
 
+global.cn = accounts.canal
 global.yt = accounts.youTube
 global.yt2 = others.yt_vid
 global.ig = accounts.instagram
